@@ -66,20 +66,13 @@ Nepal's position globally, and the relationship between wealth and pollution.
 ---
 
 ## 📁 Project Structure
-## 📁 Project Structure
 
-global-co2-analysis/
-├── data/
-│ └── data.csv
-├── visuals/
-│ ├── top10_countries.png
-│ ├── global_trend.png
-│ ├── nepal_trend.png
-│ ├── peak_year.png
-│ └── co2_vs_gdp.png
-├── analysis.ipynb
-└── README.md
-
+| File/Folder | Description |
+|---|---|
+| `data/data.csv` | Raw CO2 dataset |
+| `analysis.ipynb` | Main analysis notebook |
+| `visuals/` | All generated charts |
+| `README.md` | Project documentation |
 ---
 
 ## 📂 Data Source
